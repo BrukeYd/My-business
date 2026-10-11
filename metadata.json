@@ -1,0 +1,6 @@
+{
+  "name": "Hearthstone Landlord & Rent Tracker",
+  "description": "Smart rental property management, automated rent payment reminders, unit-level maintenance tracking, payment deadline calendar, and financial summaries for landlords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
